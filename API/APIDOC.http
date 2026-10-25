@@ -1,0 +1,28 @@
+#API CALL FOR ABOUT
+###
+GET http://127.0.0.1:8000/about/
+Accept:application/json
+
+###
+GET http://127.0.0.1:8000/education/
+Accept:application/json
+
+###
+GET  http://127.0.0.1:8000/proj/
+Accept: application/json
+
+###
+GET  http://127.0.0.1:8000/skill/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/exp/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/certificate/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/serv/
+Accept: application/json
